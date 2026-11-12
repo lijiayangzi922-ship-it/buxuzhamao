@@ -9,4 +9,3 @@
 本工具用于训练辅助与记录，不提供医学诊断，也不承诺固定周期内达到矫正效果。请按个人情况及专业建议调整训练。
 
 中文使用[小赖字体 Xiaolai](https://github.com/lxgw/kose-font)，以 SIL Open Font License 1.1 分发，许可证全文位于 [assets/fonts/OFL-Xiaolai.txt](assets/fonts/OFL-Xiaolai.txt)。英文字体通过 Google Fonts 加载，并提供系统字体回退。
-
